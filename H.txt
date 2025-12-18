@@ -1,0 +1,15 @@
+/grocery-pos/
+│
+├── index.html
+├── style.css
+├── app.js
+├── database.js
+├── config.js
+├── service-worker.js
+│
+├── /icons/
+│   ├── icon-72x72.png
+│   ├── icon-96x96.png
+│   └── ...
+│
+└── manifest.json
