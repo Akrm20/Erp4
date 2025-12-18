@@ -1582,7 +1582,6 @@ class GroceryPOSApp {
             this.showToast('حدث خطأ في إعادة تعيين النظام', 'error');
         }
     }
-}
     async loadSystemSettings() {
         try {
             console.log('⚙️ تحميل إعدادات النظام...');
